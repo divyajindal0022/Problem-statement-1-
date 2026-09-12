@@ -1,2 +1,7 @@
-# Problem-statement-1-
-First problem statement 
+# Welcome to CGC University Mohali
+BCA AIML Subjects
+CO
+IIT
+ESSD
+PSJ
+BWD
